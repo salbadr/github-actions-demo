@@ -15,6 +15,6 @@ jobs:
     - name: Lint project
       run: |
         make lint
-    - name: Test project
+    - name: Test project biw
       run: |
         make test
